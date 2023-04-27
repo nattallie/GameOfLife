@@ -31,4 +31,4 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
  0 -- the cell is empty
  
  ### More information
- For more information visit here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+ Visit this page for more information: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
